@@ -172,6 +172,7 @@
 - [ ] 反序列化漏洞
 - [ ] 弱类型漏洞
 - [ ] 变量覆盖漏洞
+- [ *] 目录遍历（https://portswigger.net/web-security/file-path-traversal#what-is-path-traversal）
 - [ ] Sql注入
 
 	- [ ] 类型
@@ -254,7 +255,8 @@
 	- [ ] 文件包含漏洞
 
 		- [ ] ⽂件远程包含
-
+        			
+                 
 		- [ ] ⽂件本地包含
 - [ ] XSS
 
