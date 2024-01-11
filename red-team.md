@@ -155,7 +155,8 @@
 ## 漏洞挖掘
 
 ### 服务器漏洞
-- [ *] 目录遍历（https://portswigger.net/web-security/file-path-traversal#what-is-path-traversal）
+- [ *] 目录遍历[学习地址]（https://portswigger.net/web-security/file-path-traversal#what-is-path-traversal）
+- [学习记录](https://www.cnblogs.com/cll-wlaq/p/17958998)
 - [ *] 访问控制 （https://portswigger.net/web-security/access-control#what-is-access-control）
   
 
